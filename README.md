@@ -1,4 +1,4 @@
-# FastAPI Genesis 🧬 - Project Template Generator 🚀
+# FastAPI Python 🧬 - Project Template Based Python 🚀
 Simple FastAPI project template with Docker, Alembic, PostgreSQL, Poetry and pre-commit to kickstart your new projects.
 
 ## How to use it 🤓
